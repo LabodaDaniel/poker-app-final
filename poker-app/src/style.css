@@ -1,0 +1,20 @@
+html {
+    min-height: 100%;
+    background-image: url(./assets/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    overflow: hidden;
+    
+ }
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+a {
+color: inherit;
+}
